@@ -4,6 +4,11 @@
 
 A complete end-to-end data science project that joins the Bitcoin Fear/Greed Index with 211,224 Hyperliquid trade records to uncover behavioural patterns, cluster traders into archetypes, build a predictive profitability model, and serve findings through an interactive Streamlit dashboard.
 
+
+## 🌐 Live Demo
+**[▶ Try the Live Dashboard on Streamlit](https://hyperliquid-sentiment-analysis-ruchikumari.streamlit.app)**
+
+
 ---
 
 ## Table of Contents

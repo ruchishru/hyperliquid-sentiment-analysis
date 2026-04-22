@@ -1,4 +1,4 @@
-sentiment_5,days,median_pnl,mean_pnl,mean_win_rate,mean_long_ratio,mean_trades,mean_volume
+sentiment_5,days,median_pnl,mean_pnl,mean_win_rate,mean_long_ratio,mean_trade_count,mean_volume
 Extreme Fear,14,22561.74,52793.59,0.33,0.35,1528.57,8177447.25
 Fear,91,1412.31,36891.82,0.33,0.41,679.53,5311261.43
 Neutral,67,1818.57,19297.32,0.33,0.38,562.48,2690180.05
