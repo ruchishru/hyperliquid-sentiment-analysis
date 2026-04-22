@@ -1,0 +1,12 @@
+data/raw/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
+writeup.html

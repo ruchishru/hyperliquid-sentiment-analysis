@@ -1,0 +1,5 @@
+cluster,n,avg_pnl,avg_size,avg_win_rate,avg_long_ratio,avg_trades,avg_sharpe,fear_pnl,greed_pnl,pnl_greed_lift,dir_shift,archetype
+0,1,66676.24,33569.1,0.35,0.01,3818.0,0.44,176877.54,19703.08,-157174.46,0.05,Fear Dominator
+1,9,288.06,11329.41,0.31,0.2,4922.11,0.04,3916.58,-3224.34,-7140.92,0.05,High-Stakes Speculator
+2,12,7762.52,7174.51,0.45,0.35,10207.0,0.42,7479.22,4414.4,-3064.82,-0.0,Disciplined Grinder
+3,10,6564.63,6037.18,0.27,0.47,4061.7,0.39,196.38,14305.35,14108.96,0.08,Greed Momentum Rider
